@@ -2,3 +2,4 @@ there are different types
 jasmine
 basmati
 brown
+black rice
